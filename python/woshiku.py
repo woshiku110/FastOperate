@@ -1,1 +1,2 @@
-console.log('woshiku you are good');
+print('woshiku you are good');
+
